@@ -1,8 +1,17 @@
+"""customs_css: Custom css adjustments to a jupyter notebooks."""
+
+__author__ = "Wojciech Raszka"
+__copyright__ = "Copyright 2020, GitPistachio"
+__version__ = "1.0"
+__license__ = "BSD 3-Clause"
+__email__ = "GitPistachio@gmail.com"
+
+
 from IPython.core.display import HTML, display
 
 
 class CCSS:
-    """Set of custom CSS adjustments to the jupyter notebooks."""
+    """Set of custom CSS adjustments to a jupyter notebooks."""
     
     CENTER_PLOTS_CSS = """
         .output_png {
