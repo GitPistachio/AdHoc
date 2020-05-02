@@ -3,7 +3,7 @@
 __author__ = "Wojciech Raszka"
 __copyright__ = "Copyright 2020, GitPistachio"
 __version__ = "1.0"
-__license__ = "BSD 3-Clause"
+__license__ = "BSD-3-Clause"
 __email__ = "GitPistachio@gmail.com"
 
 
