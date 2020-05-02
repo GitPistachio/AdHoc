@@ -1,1 +1,1 @@
-jupyter nbconvert --to notebook --execute "Liczba punktów kratowych w kole.ipynb"
+jupyter nbconvert --to notebook --execute "notebooks/Liczba punktów kratowych w kole.ipynb"
