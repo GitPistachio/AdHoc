@@ -1,4 +1,4 @@
-# List of interactive notebooks
+# List of notebooks
 
 ### Liczba możliwych ruchów hetmana na szachownicy (<em>The number of possible moves of the queen on the chessboard</em>).  
 
